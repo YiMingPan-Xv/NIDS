@@ -1,0 +1,1 @@
+/wsl.localhost/kali-linux/home/yimingxv/Documents/projects/NIDS/data/kddcup.data_10_percent_corrected filter=lfs diff=lfs merge=lfs -text
